@@ -1,6 +1,6 @@
 # HW3
 
-Due until Tue, 25.05.2021
+Due until Tue, 25.05.2021, 12:30
 
 The file `newton2.cxx` contains the sample solution to lab 3. To arrive at the 
 final Newton fractal plot the output via `p "out" w image` in gnuplot. 
